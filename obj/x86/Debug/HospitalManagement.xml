@@ -1,0 +1,600 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HospitalManagement
+</name>
+</assembly>
+<members>
+<member name="P:MainFrame.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MainFrame.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:MainFrame.My.Resources.Resources.customer_information_personal_profile_user_icon_1320086045331670685_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MainFrame.My.Resources.Resources.one_and_half">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MainFrame.My.Resources.Resources.one_and_half__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MainFrame.My.Resources.Resources.open_password_security_icon_1320190837965478067_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:MainFrame.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.AdminIDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.DoctorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.nurseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.PatientAdmitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.TempTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.WardDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.Query1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.AdminIDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.DoctorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.nurseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.PatientAdmitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.TempTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.WardRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.Query1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.AdminIDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.DoctorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.nurseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.PatientAdmitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.TempTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.WardRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3.Query1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3TableAdapters.AdminIDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3TableAdapters.DoctorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3TableAdapters.nurseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3TableAdapters.PatientAdmitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3TableAdapters.RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3TableAdapters.StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3TableAdapters.TempTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3TableAdapters.WardTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3TableAdapters.Query1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(MainFrame.HospitalDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(MainFrame.HospitalDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(MainFrame.HospitalDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet3TableAdapters.TableAdapterManager.UpdateAll(MainFrame.HospitalDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.AdminIDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.DoctorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.nurseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.PatientAdmitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.TempTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.WardDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.Query1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.AdminIDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.DoctorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.nurseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.PatientAdmitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.TempTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.WardRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.Query1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.AdminIDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.DoctorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.nurseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.PatientAdmitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.TempTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.WardRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2.Query1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2TableAdapters.AdminIDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2TableAdapters.DoctorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2TableAdapters.nurseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2TableAdapters.PatientAdmitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2TableAdapters.RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2TableAdapters.StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2TableAdapters.TempTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2TableAdapters.WardTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2TableAdapters.Query1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(MainFrame.HospitalDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(MainFrame.HospitalDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(MainFrame.HospitalDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet2TableAdapters.TableAdapterManager.UpdateAll(MainFrame.HospitalDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet.AdminIDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet.AdminIDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet.AdminIDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSetTableAdapters.AdminIDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(MainFrame.HospitalDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(MainFrame.HospitalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(MainFrame.HospitalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:MainFrame.HospitalDataSetTableAdapters.TableAdapterManager.UpdateAll(MainFrame.HospitalDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:MainFrame.HospitalDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:MainFrame.HospitalDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.AdminIDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.DoctorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.nurseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.PatientAdmitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.WardDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.AdminIDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.DoctorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.nurseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.PatientAdmitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.WardRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.AdminIDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.DoctorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.nurseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.PatientAdmitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1.WardRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1TableAdapters.AdminIDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1TableAdapters.DoctorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1TableAdapters.nurseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1TableAdapters.PatientAdmitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1TableAdapters.RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1TableAdapters.StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1TableAdapters.WardTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(MainFrame.HospitalDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(MainFrame.HospitalDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(MainFrame.HospitalDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:MainFrame.HospitalDataSet1TableAdapters.TableAdapterManager.UpdateAll(MainFrame.HospitalDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:MainFrame.HospitalDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

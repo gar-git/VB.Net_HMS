@@ -1,0 +1,10 @@
+C:\Users\abc\AppData\Local\Temporary Projects\MainFrame\bin\Debug\MainFrame.exe
+C:\Users\abc\AppData\Local\Temporary Projects\MainFrame\bin\Debug\MainFrame.pdb
+C:\Users\abc\AppData\Local\Temporary Projects\MainFrame\bin\Debug\MainFrame.xml
+C:\Users\abc\AppData\Local\Temporary Projects\MainFrame\obj\x86\Debug\MainFrame.Form1.resources
+C:\Users\abc\AppData\Local\Temporary Projects\MainFrame\obj\x86\Debug\MainFrame.Resources.resources
+C:\Users\abc\AppData\Local\Temporary Projects\MainFrame\obj\x86\Debug\MainFrame.vbproj.GenerateResource.Cache
+C:\Users\abc\AppData\Local\Temporary Projects\MainFrame\obj\x86\Debug\MainFrame.exe
+C:\Users\abc\AppData\Local\Temporary Projects\MainFrame\obj\x86\Debug\MainFrame.xml
+C:\Users\abc\AppData\Local\Temporary Projects\MainFrame\obj\x86\Debug\MainFrame.pdb
+C:\Users\abc\AppData\Local\Temporary Projects\MainFrame\obj\x86\Debug\MainFrame.AdminPage.resources

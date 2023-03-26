@@ -1,0 +1,41 @@
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.pdb
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.xml
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.AdminPage.resources
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.MainFrame.resources
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.Resources.resources
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.vbproj.GenerateResource.Cache
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.exe
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.xml
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.pdb
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.AdminPasswordChange.resources
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\bin\Debug\Hospital.accdb
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe.config
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.RoomAccount.resources
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.DoctorAccount.resources
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.StaffAccount.resources
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.WardAccount.resources
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.patient.resources
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.PatientBilling.resources
+C:\Users\abc\documents\visual studio 2010\Projects\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.Form1.resources
+D:\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe.config
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.exe
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.xml
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.pdb
+D:\HospitalManagement\HospitalManagement\bin\Debug\Hospital.accdb
+D:\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe
+D:\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.pdb
+D:\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.xml
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.AdminPage.resources
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.AdminPasswordChange.resources
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.DoctorAccount.resources
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.Form1.resources
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.PatientBilling.resources
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.patient.resources
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.RoomAccount.resources
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.MainFrame.resources
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.Resources.resources
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.StaffAccount.resources
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.WardAccount.resources
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.vbproj.GenerateResource.Cache
+D:\HospitalManagement\HospitalManagement\obj\x86\Debug\MainFrame.dev.resources
